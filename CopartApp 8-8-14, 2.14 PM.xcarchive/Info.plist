@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ApplicationProperties</key>
+	<dict>
+		<key>ApplicationPath</key>
+		<string>Applications/CopartApp.app</string>
+		<key>CFBundleIdentifier</key>
+		<string>com.copart.membermobile</string>
+		<key>CFBundleShortVersionString</key>
+		<string>3.2</string>
+		<key>CFBundleVersion</key>
+		<string>3.2</string>
+		<key>IconPaths</key>
+		<array>
+			<string>Applications/CopartApp.app/Icon@2x.png</string>
+			<string>Applications/CopartApp.app/Icon.png</string>
+			<string>Applications/CopartApp.app/Icon@2x.png</string>
+			<string>Applications/CopartApp.app/Icon-72@2x.png</string>
+			<string>Applications/CopartApp.app/Icon-72.png</string>
+			<string>Applications/CopartApp.app/Icon-72@2x.png</string>
+			<string>Applications/CopartApp.app/Icon-60@2x.png</string>
+			<string>Applications/CopartApp.app/Icon-76@2x.png</string>
+			<string>Applications/CopartApp.app/Icon-76.png</string>
+			<string>Applications/CopartApp.app/Icon-76@2x.png</string>
+			<string>Applications/CopartApp.app/Icon@2x.png</string>
+			<string>Applications/CopartApp.app/Icon.png</string>
+			<string>Applications/CopartApp.app/Icon@2x.png</string>
+			<string>Applications/CopartApp.app/Icon-72@2x.png</string>
+			<string>Applications/CopartApp.app/Icon-72.png</string>
+			<string>Applications/CopartApp.app/Icon-72@2x.png</string>
+			<string>Applications/CopartApp.app/Icon-60@2x.png</string>
+			<string>Applications/CopartApp.app/Icon-76@2x.png</string>
+			<string>Applications/CopartApp.app/Icon-76.png</string>
+			<string>Applications/CopartApp.app/Icon-76@2x.png</string>
+		</array>
+		<key>SigningIdentity</key>
+		<string>iPhone Distribution: Copart, Inc (F3G3LP4437)</string>
+	</dict>
+	<key>ArchiveVersion</key>
+	<integer>2</integer>
+	<key>CreationDate</key>
+	<date>2014-08-08T19:14:30Z</date>
+	<key>Name</key>
+	<string>CopartApp</string>
+	<key>SchemeName</key>
+	<string>CopartApp</string>
+</dict>
+</plist>
